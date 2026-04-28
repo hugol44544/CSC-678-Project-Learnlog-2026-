@@ -1,0 +1,17 @@
+{
+    "name": "shaniabrown/678_2026_02_group2",
+    "autoload": {
+        "psr-4": {
+            "Shaniabrown\\678202602Group2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ShaniaB417",
+            "email": "107355668+ShaniaB417@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^13.0"
+    }
+}
