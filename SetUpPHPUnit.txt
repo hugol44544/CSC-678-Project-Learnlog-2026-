@@ -19,5 +19,6 @@ php -r "unlink('composer-setup.php');"
 11. run php server php -S localhost:8000 
 
 -- Database connection 
-
 12. create a config.php file based on example.Config.php
+
+ 
